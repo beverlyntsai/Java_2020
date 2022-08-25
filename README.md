@@ -1,8 +1,8 @@
-Games that were written in Java languages
+Here are two Games projects that were written in Java languages.  <br />
 
-Description
-Console base game
+Description:  <br />
+These two games are played at Console.  <br />
 
-Projects
-Project 1: Encryption and decryption
-Project 2: black jack game
+Projects:  <br />
+Project 1: Encryption and decryption  <br />
+Project 2: black jack game  <br />
